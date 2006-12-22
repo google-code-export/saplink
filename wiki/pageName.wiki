@@ -1,0 +1,20 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+= Favoriate thing from mediawiki=
+
+= Details =
+==checking sub heading==
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+==some more sub stuff==
+===sub sub sub heading with code===
+{{{testing(){
+how well the for
+}}}
