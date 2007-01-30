@@ -3,21 +3,26 @@
 This document provides an overview of SAPlink features/enhancements planned for current and future releases.  This roadmap is subject to change at any time.
 
 = Milestones =
-== 0.1.0 ==
+== 0.1.x ==
+=== 0.1.0 ===
   * Initial release
 
-== 0.1.1 ==
-  * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
-== 0.1.2 - current stable release== 
+=== 0.1.1 ===
   * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
 
-== 0.1.3 ==
+=== 0.1.2 ===
+  * Current stable release
+  * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+
+=== 0.1.3 ===
   * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
   * Create nugget from transport
   * Create nugget from dev package
   * Class plugin overhaul - no noticeable change to user
 
-== 0.2.0 ==
+
+== 0.2.x ==
+=== 0.2.0 ===
   * All final distribution via nuggets
   * Versioning support for nuggets
   * Nugget dependencies for other nuggets
@@ -38,7 +43,7 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Slinkees used only as a tool during development, not for distribution
   * Prompt to save objects to development package
 
-== 0.2.x ==
+=== 0.2.1 ===
   * Table entries plugin to save nugget history on SAPlink upgrade
 
 == ?.?.? ==
@@ -48,6 +53,12 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Capability for Plugin specific options
   * Support for program Add-ons 
   * SVN access directly from SAPlink for slinkees
+
+
+
+
+
+
 
 
 
