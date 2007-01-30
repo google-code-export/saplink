@@ -1,0 +1,24 @@
+#labels Featured
+[http://saplink.org/ http://farm1.static.flickr.com/150/354949868_5242f22ca6_m.jpg]
+= Intro =
+This plugin list is linked to from the [http://saplink.org SAPlink code page], with the goal of containing a full list of available plugins.  If you have an available plugin that you would like to add to the list, please contact the project owners.
+
+= SAPlink Plugins =
+
+== Released ==
+Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all downloads for released plugins
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wapa&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wtag&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP Extensions]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ddic&colspec=Filename+Summary+Uploaded+Size+DownloadCount DDic]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=fugr&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=msag&colspec=Filename+Summary+Uploaded+Size+DownloadCount Message Class]
+  * [http://variant.ch/misc/saplink/ XSLT]
+
+== Alpha ==
+  * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro] 
+    _Note: The ABAP web dynpro requires the latest development version of the core [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk SAPlink class].  Without updating first, you will get an error message during plugin install regarding a missing PRESERVEVERSION flag. You can [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk download] and upgrade the core SAPlink class via SAPlink._
+  * [http://saplink-bw.googlecode.com/svn/trunk/ BI Infocube]
+  * [http://saplink-bw.googlecode.com/svn/trunk/ BI ODS]
+
