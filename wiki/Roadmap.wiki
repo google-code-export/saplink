@@ -1,0 +1,54 @@
+#labels Phase-Requirements
+= About =
+This document provides an overview of SAPlink features/enhancements planned for current and future releases.  This roadmap is subject to change at any time.
+
+= Milestones =
+== 0.1.0 ==
+  * Initial release
+
+== 0.1.1 ==
+  * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+== 0.1.2 - current stable release== 
+  * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+
+== 0.1.3 ==
+  * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+  * Create nugget from transport
+  * Create nugget from dev package
+  * Class plugin overhaul - no noticeable change to user
+
+== 0.2.0 ==
+  * All final distribution via nuggets
+  * Versioning support for nuggets
+  * Nugget dependencies for other nuggets
+  * Nugget editor
+    * Show meta view of all objects on a nugget
+    * Add, replace, and remove objects from view
+    * Input for version number available for objects
+    * On save of view, nugget is (re)generated with current active objects
+    * Add dependencies to nugget. Example - This nugget is dependent on:
+       * NUGG ZSAPLINK >= 0.1.3
+       * NUGG ZBSP     >= 0.1.0
+       * NUGG ZFOOBAR  >= 0.2.0
+    * List of currently installed nuggets and versions
+    * Uninstall nugget from current list
+    * On install with overwrite, option to create backup nugget of current objects
+  * Move DDic plugin into core release
+  * New ztable in core release for version info storage 
+  * Slinkees used only as a tool during development, not for distribution
+  * Prompt to save objects to development package
+
+== 0.2.x ==
+  * Table entries plugin to save nugget history on SAPlink upgrade
+
+== ?.?.? ==
+  * SAPlink auto update
+  * Download/install plugins from SAPlink directly
+  * Central repository for available nuggets 
+  * Capability for Plugin specific options
+  * Support for program Add-ons 
+  * SVN access directly from SAPlink for slinkees
+
+
+
+
