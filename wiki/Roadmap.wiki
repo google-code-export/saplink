@@ -19,7 +19,7 @@ This document provides an overview of SAPlink features/enhancements planned for 
     * Create nugget from transport
     * Create nugget from dev package
     * Class plugin overhaul - no noticeable change to user
-
+    * Self generating installer - no noticeable change to user
 
 == 0.2.x ==
   === 0.2.0 ===
@@ -53,7 +53,6 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Capability for Plugin specific options
   * Support for program Add-ons 
   * SVN access directly from SAPlink for slinkees
-
 
 
 
