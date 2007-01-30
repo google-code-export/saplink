@@ -23,28 +23,28 @@ This document provides an overview of SAPlink features/enhancements planned for 
 
 == 0.2.x ==
   === 0.2.0 ===
-  * All final distribution via nuggets
-  * Versioning support for nuggets
-  * Nugget dependencies for other nuggets
-  * Nugget editor
-    * Show meta view of all objects on a nugget
-    * Add, replace, and remove objects from view
-    * Input for version number available for objects
-    * On save of view, nugget is (re)generated with current active objects
-    * Add dependencies to nugget. Example - This nugget is dependent on:
-       * NUGG ZSAPLINK >= 0.1.3
-       * NUGG ZBSP     >= 0.1.0
-       * NUGG ZFOOBAR  >= 0.2.0
-    * List of currently installed nuggets and versions
-    * Uninstall nugget from current list
-    * On install with overwrite, option to create backup nugget of current objects
-  * Move DDic plugin into core release
-  * New ztable in core release for version info storage 
-  * Slinkees used only as a tool during development, not for distribution
-  * Prompt to save objects to development package
+    * All final distribution via nuggets
+    * Versioning support for nuggets
+    * Nugget dependencies for other nuggets
+    * Nugget editor
+      * Show meta view of all objects on a nugget
+      * Add, replace, and remove objects from view
+      * Input for version number available for objects
+      * On save of view, nugget is (re)generated with current active objects
+      * Add dependencies to nugget. Example - This nugget is dependent on:
+        * NUGG ZSAPLINK >= 0.1.3
+        * NUGG ZBSP     >= 0.1.0
+        * NUGG ZFOOBAR  >= 0.2.0
+      * List of currently installed nuggets and versions
+      * Uninstall nugget from current list
+      * On install with overwrite, option to create backup nugget of current objects
+    * Move DDic plugin into core release
+    * New ztable in core release for version info storage 
+    * Slinkees used only as a tool during development, not for distribution
+    * Prompt to save objects to development package
 
   === 0.2.1 ===
-  * Table entries plugin to save nugget history on SAPlink upgrade
+    * Table entries plugin to save nugget history on SAPlink upgrade
 
 == ?.?.? ==
   * SAPlink auto update
