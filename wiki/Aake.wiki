@@ -3,7 +3,7 @@
 = REPS =
 RS_SYNTAX_CHECK
   I_GLOBAL_CHECK                  X
-  I_GLOBAL_PROGRAM                ZSAPLINK
 
+  I_GLOBAL_PROGRAM                ZSAPLINK
 
 
