@@ -1,3 +1,4 @@
+#labels Phase-Design
 ABAP Make.
 
 Hopefully Zake will become a fully fledged build and test system for ABAP open source projects that span many instances.  The general idea is to create a central "build-master" server that will run a abap report that makes use of the Zake class which will allow the system to build all the SLNKs into a nugget, syntax check, activate and then publish that nugget back to the SVN repository.  Eventually I will add unit testing into the mix so that once the "build" completes you can run some eCatt scripts over the new code and test it out.
