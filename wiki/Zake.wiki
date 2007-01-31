@@ -4,6 +4,9 @@ Hopefully Zake will become a fully fledged build and test system for ABAP open s
 
 = SAPlink Changes =
 Need to add an protected activate and check method to the root class, also we will need to make a friend of the saplink root class that will be allowed to call this which will be the Zake root class.
+  * Activate - RS_WORKING_OBJECT_ACTIVATE
+  * Syntax Check - CL_SLIN=>RUN
+
 
 = Zake File format = 
 An xml document that has the order in which things are created and different tags for different tasks.
