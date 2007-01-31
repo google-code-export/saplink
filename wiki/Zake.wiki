@@ -1,0 +1,11 @@
+ABAP Make.  Hopefully Zake will become a fully fledged build and test system for ABAP open source projects that span many instances.  The general idea is to create a central "build-master" server that will process a Zake command file similar to an Ant file which will allow the system to build all the SLNKs into a nugget and publish that nugget back to the SVN repository.  Hopefully we will sooner or later add unit testing into the mix so that once the "build" complete you can run some eCatt scripts over the new code and test it out.
+
+= SAPlink Changes =
+Need to add an protected activate and check method to the root class, also we will need to make a friend of the saplink root class that will be allowed to call this which will be the Zake root class.
+
+= Zake File format = 
+An xml document that has the order in which things are created and different tags for different tasks.
+* Delete
+* Check
+* Activate
+* Install
