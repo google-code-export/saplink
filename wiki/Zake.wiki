@@ -19,4 +19,3 @@ Luckily Zake will just be an ABAP class so no need to learn any new syntax like 
   * Delete
   * ~~Get file from SVN~~
   * Put file on SVN
-
