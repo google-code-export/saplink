@@ -3,15 +3,16 @@ ABAP Make.
 
 Hopefully Zake will become a fully fledged build and test system for ABAP open source projects that span many instances.  The general idea is to create a central "build-master" server that will run a abap report that makes use of the Zake class which will allow the system to build all the SLNKs into a nugget, syntax check, activate and then publish that nugget back to the SVN repository.  Eventually I will add unit testing into the mix so that once the "build" completes you can run some eCatt scripts over the new code and test it out.
 
-= SAPlink Changes =
+== SAPlink Changes ==
 Need to add an protected activate and check method to the root class, also need to make a friend of the saplink root class that will be allowed to call this which will be the Zake root class.
   * Activate - RS_WORKING_OBJECT_ACTIVATE
   * Syntax Check - CL_SLIN=>RUN
 
-= Zake Syntax = 
+== Zake Syntax ==
+
 Luckily Zake will just be an ABAP class so no need to learn any new syntax like ANT or make files.  If you want to create a new build system, just SAPlink the Zake nugget into your system and you are ready to start writing build programs.  Just slap together a simple ZProgram that automates your build.
 
-= Zake Commands = 
+== Zake Commands == 
   * Install
   * Syntax Check
   * Activate
@@ -19,3 +20,6 @@ Luckily Zake will just be an ABAP class so no need to learn any new syntax like 
   * Delete
   * ~~Get file from SVN~~
   * Put file on SVN
+
+
+
