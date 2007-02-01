@@ -8,10 +8,15 @@ Need to add an protected activate and check method to the root class, also need 
   * Activate - RS_WORKING_OBJECT_ACTIVATE
   * Syntax Check - CL_SLIN=>RUN
 
+= Zake Syntax = 
+Luckily Zake will just be an ABAP class so no need to learn any new syntax like ANT or make files.  If you want to create a new build system, just SAPlink the Zake nugget into your system and you are ready to start writing build programs.  Just slap together a simple ZProgram that automates your build.
 
-= Zake File format = 
-An xml document that has the order in which things are created and different tags for different tasks.
-  * Delete
-  * Check
-  * Activate
+= Zake Commands = 
   * Install
+  * Syntax Check
+  * Activate
+  * Create Nugget
+  * Delete
+  * ~~Get file from SVN~~
+  * Put file on SVN
+
