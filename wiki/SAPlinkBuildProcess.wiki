@@ -1,0 +1,14 @@
+= Zake Build Tasks =
+  # Fetch Slinkees
+  # Delete existing installer
+  # Install new Slinkees
+  # Syntax check Objects
+  # Activate Objects
+  # Build Nugget
+
+= Zake Testing Tasks =
+  # Install Template Program
+  # Run SteamRoller Program
+  # Delete all objects
+  # Run new Installer
+  # Install check Slinkees
