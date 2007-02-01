@@ -5,8 +5,8 @@ Hopefully Zake will become a fully fledged build and test system for ABAP open s
 
 == SAPlink Changes ==
 Need to add an protected activate and check method to the root class, also need to make a friend of the saplink root class that will be allowed to call this which will be the Zake root class.
-  * Activate - RS_WORKING_OBJECT_ACTIVATE
-  * Syntax Check - CL_SLIN=>RUN
+  * Activate - {{RS_WORKING_OBJECT_ACTIVATE}}
+  * Syntax Check - {{CL_SLIN=>RUN}}
 
 == Zake Syntax ==
 
@@ -20,6 +20,5 @@ Luckily Zake will just be an ABAP class so no need to learn any new syntax like 
   * Delete
   * ~~Get file from SVN~~
   * Put file on SVN
-
 
 
