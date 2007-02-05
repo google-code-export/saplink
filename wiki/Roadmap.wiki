@@ -51,9 +51,10 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Download/install plugins from SAPlink directly
   * Central repository for available nuggets 
   * Capability for Plugin specific options
-  * Support for program Add-ons 
+  * Support for program Add-ons
+  * Automatic searching of Google Code for Nuggets to install. 
   * SVN access directly from SAPlink for slinkees
-
+    * Already Part of Zake which is where this should stay.
 
 
 
