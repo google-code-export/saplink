@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,SAPlink
 [http://saplink.org/ http://farm1.static.flickr.com/150/354949868_5242f22ca6_m.jpg]
 = Intro =
 This plugin list is linked to from the [http://saplink.org SAPlink code page], with the goal of containing a full list of available plugins.  If you have an available plugin that you would like to add to the list, please contact the project owners.
@@ -21,4 +21,3 @@ Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all
 == Alpha ==
   * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro] 
     _Note: The ABAP web dynpro requires the latest development version of the core [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk SAPlink class].  Without updating first, you will get an error message during plugin install regarding a missing PRESERVEVERSION flag. You can [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk download] and upgrade the core SAPlink class via SAPlink. Please report any issues with this plugin directly on the plugin page that it is hosted on_
-
