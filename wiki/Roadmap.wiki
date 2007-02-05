@@ -8,14 +8,14 @@ This document provides an overview of SAPlink features/enhancements planned for 
     * Initial release
 
   === 0.1.1 ===
-    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=Milestone%3A*1.0&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary issues list] for this release_
 
   === 0.1.2 ===
     * Current stable release
-    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=Milestone%3A*1.2&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary issues list] for this release_
 
   === 0.1.3 ===
-    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list issues list] for this release_
+    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=Milestone%3A*1.3&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary issues list] for this release_
     * Create nugget from transport
     * Create nugget from dev package
     * Class plugin overhaul - no noticeable change to user
@@ -53,7 +53,6 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Capability for Plugin specific options
   * Support for program Add-ons 
   * SVN access directly from SAPlink for slinkees
-
 
 
 
