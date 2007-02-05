@@ -60,6 +60,16 @@
     Importing:
       * NUGGETSTRING ( string ) = The string representation of the Nugget passed by NUGGETNAME.
 
+  == GETALLFILES ==
+    Gets all the files in the directory Zake was created in a stores them in memory.
+    Exporting:
+      * None
+    Importing:
+      * None
 
-
+  == BUILDNUGGETFROMFILES ==
+     Exporting:
+      * NuggetName ( string ) = The name of the nugget to build from the files loaded with the GETALLFILES command.
+    Importing:
+      * None
 
