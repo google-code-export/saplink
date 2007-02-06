@@ -1,4 +1,6 @@
+#summary SAPlink user and developer documentation
 #labels SAPlink
+
 All SAPlink documentation is currently hosted on the SAP Developer Network [https://wiki.sdn.sap.com/wiki/display/HOME/SAPlink SAPlink wiki page].
 
 The user documentation is somewhat up to date, but any changes are welcome.  If you are really feeling nice and interested in helping, we are still in need of plugin developer documentation.
