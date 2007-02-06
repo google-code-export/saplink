@@ -21,4 +21,4 @@ Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all
 
 == Alpha ==
   * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro] 
-    _Note: The ABAP web dynpro requires the latest development version of the core [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk SAPlink class].  Without updating first, you will get an error message during plugin install regarding a missing PRESERVEVERSION flag. You can [http://saplink.googlecode.com/svn/trunk/Core%20Slinkees/CLAS_ZSAPLINK.slnk download] and upgrade the core SAPlink class via SAPlink. Please report any issues with this plugin directly on the plugin page that it is hosted on_
+    _Note: WDA plugin requires SAPlink 0.1.3 or greater. Please report any issues with this plugin directly on the plugin page that it is hosted on_
