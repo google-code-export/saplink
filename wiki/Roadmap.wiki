@@ -44,6 +44,7 @@ This document provides an overview of SAPlink features/enhancements planned for 
     * New ztable in core release for version info storage 
     * Slinkees used only as a tool during development, not for distribution
     * Prompt to save objects to development package
+    * Allow plugins to inherit from other plugins (for example, classes<<interfaces)
 
   === 0.2.1 ===
     * Table entries plugin to save nugget history on SAPlink upgrade
@@ -57,7 +58,6 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Automatic searching of Google Code for Nuggets to install. 
   * SVN access directly from SAPlink for slinkees
     * Already Part of Zake which is where this should stay.
-
 
 
 
