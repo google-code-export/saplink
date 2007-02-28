@@ -7,12 +7,12 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 = SAPlink Plugins =
 
 == Released ==
-Click [http://code.google.com/p/saplink-plugins/downloads/list here] to view all downloads for released plugins
   * [http://code.google.com/p/saplink-bw/downloads/list BI Infocube]
   * [http://code.google.com/p/saplink-bw/downloads/list BI ODS]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wapa&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wtag&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP Extensions]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ddic&colspec=Filename+Summary+Uploaded+Size+DownloadCount DDic - Data dictionary objects]
+  * [http://www.tknight.org/opensource/saplink_interface_plugin.zip Interfaces]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=fugr&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
