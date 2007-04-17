@@ -4,3 +4,5 @@
 All SAPlink documentation is currently hosted on the SAP Developer Network [https://wiki.sdn.sap.com/wiki/display/ABAP/SAPlink SAPlink wiki page].
 
 The user documentation is somewhat up to date, but any changes are welcome.  If you are really feeling nice and interested in helping, we are still in need of plugin developer documentation.
+
+If you are interested in helping, use the SAPlink Contributor Help, found at the SDN wiki from the link above.
