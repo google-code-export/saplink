@@ -21,5 +21,6 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://code.google.com/p/saplink-plugins-ksq/downloads/list Transactions]
 
 == Alpha ==
-  * [http://saplink-plugins.googlecode.com/svn/trunk/ABAP%20Web%20Dynpro/ ABAP Web Dynpro] 
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wdyn&colspec=Filename+Summary+Uploaded+Size+DownloadCount ABAP Web Dynpro]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sicf&colspec=Filename+Summary+Uploaded+Size+DownloadCount SICF Nodes]
     _Note: WDA plugin requires SAPlink 0.1.3 or greater. Please report any issues with this plugin directly on the plugin page that it is hosted on_
