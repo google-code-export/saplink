@@ -23,5 +23,4 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 
 == Alpha ==
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sicf&colspec=Filename+Summary+Uploaded+Size+DownloadCount SICF Nodes]
-    _Note: Please report any issues with this plugin directly on the plugin page that it is hosted on_
-
+    _Note: Please report any plugin issues directly on the project page that it is hosted on_
