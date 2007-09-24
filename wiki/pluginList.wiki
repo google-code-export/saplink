@@ -15,12 +15,13 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ddic&colspec=Filename+Summary+Uploaded+Size+DownloadCount DDic - Data dictionary objects]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=docv&colspec=Filename+Summary+Uploaded+Size+DownloadCount Documentation - SE61]
   * [http://www.tknight.org/opensource/saplink_interface_plugin.zip Interfaces]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
-  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=fugr&colspec=Filename+Summary+Uploaded+Size+DownloadCount Function Groups]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=msag&colspec=Filename+Summary+Uploaded+Size+DownloadCount Message Class]
-  * [http://variant.ch/misc/saplink/ XSLT]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
+  * [http://code.google.com/p/saplink-plugins-ksq/downloads/list Report Variants]
+  * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
   * [http://code.google.com/p/saplink-plugins-ksq/downloads/list Transactions]
+  * [http://variant.ch/misc/saplink/ XSLT]
 
 == Alpha ==
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sicf&colspec=Filename+Summary+Uploaded+Size+DownloadCount SICF Nodes]
@@ -30,5 +31,7 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 
 
 
+ 
+ 
  
  
