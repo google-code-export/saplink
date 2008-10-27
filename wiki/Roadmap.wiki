@@ -23,6 +23,9 @@ This document provides an overview of SAPlink features/enhancements planned for 
     * Class plugin overhaul - no noticeable change to user
     * Self generating installer - no noticeable change to user
 
+  === 0.1.4 ===
+    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=Milestone%3A*1.4&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary issues list] for this release_
+
 == 0.2.x ==
   === 0.2.0 ===
     * All final distribution via nuggets
@@ -58,6 +61,4 @@ This document provides an overview of SAPlink features/enhancements planned for 
   * Automatic searching of Google Code for Nuggets to install. 
   * SVN access directly from SAPlink for slinkees
     * Already Part of Zake which is where this should stay.
-
-
 
