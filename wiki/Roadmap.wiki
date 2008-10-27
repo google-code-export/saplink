@@ -24,7 +24,7 @@ This document provides an overview of SAPlink features/enhancements planned for 
     * Self generating installer - no noticeable change to user
 
   === 0.1.4 ===
-    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=milestone:Release0.1.4&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary] for this release_
+    * Bug fixes - _view [http://code.google.com/p/saplink/issues/list?can=1&q=milestone:Release0.1.4&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary issues list] for this release_
 
 == 0.2.x ==
   === 0.2.0 ===
