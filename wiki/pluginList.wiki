@@ -20,6 +20,7 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=sfpf&colspec=Filename+Summary+Uploaded+Size+DownloadCount PDF Forms]
   * [http://code.google.com/p/saplink-plugins-ksq/downloads/list Report Variants]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=ssfo&colspec=Filename+Summary+Uploaded+Size+DownloadCount Smartforms]
+  * [http://code.google.com/p/sapcommander/downloads/list Standard Texts(DOCT)]
   * [http://code.google.com/p/saplink-plugins-ksq/downloads/list Transactions]
   * [http://variant.ch/misc/saplink/ XSLT]
 
