@@ -8,6 +8,7 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
 
 == Released ==
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wdyn&colspec=Filename+Summary+Uploaded+Size+DownloadCount ABAP Web Dynpro]  _(requires SAPlink >= 0.1.3)_
+  * [http://http://code.google.com/p/saplink-pdfinterfaces/downloads/list Badi Implementations (Classical) by Raghavendra Kumar]
   * [http://code.google.com/p/saplink-bw/downloads/list BI Infocube]
   * [http://code.google.com/p/saplink-bw/downloads/list BI ODS]
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=wapa&colspec=Filename+Summary+Uploaded+Size+DownloadCount BSP]
