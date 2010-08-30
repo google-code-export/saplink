@@ -31,6 +31,7 @@ This plugin list is linked to from the [http://saplink.org SAPlink code page], w
   * [http://code.google.com/p/saplink-plugins/downloads/list?can=2&q=tabu&colspec=Filename+Summary+Uploaded+Size+DownloadCount Table Contents]
   * [http://code.google.com/p/saplink-typegroup/downloads/list Type Group]
   * [http://code.google.com/p/sapzink/downloads/list MIME Objects]
+  * [http://code.google.com/p/saplink-pdfinterfaces/downloads/list Smartstyle (SSST)]
 
     _Note: Please report any plugin issues directly on the project page that it is hosted on_
 
