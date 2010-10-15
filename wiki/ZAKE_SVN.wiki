@@ -4,6 +4,8 @@
 
 At the moment when you want to do a distributed development using a source control system in combination with SAPLink you have to download the Project using the ZSAPLINK program. Manually check in the .nugg or .slnk file into a central repository. When another developer wants to get the current state of the project he has to manually check out the file and import them manually to their ABAP stack using ZSAPLINK again. I think this slows down the whole development process.
 
+Watch ZAKE_SVN in action: [http://bit.ly/DJZAKE_SVNl SAP TechEd 2010 Demo Jam Submission Video]
+
 = Idea =
 
 Use Subversion or any other existing source control system with a command line interfacefor for all the connectivity against a central repository, but control it from the ABAP stack. To acesss the source control system's command line tool the SAP ABAP stack provides transaction SM69 where external commands can be defined. For Subversion we will define the command i.e. "C:/Programme/Subversion/bin/svn.exe" as ZSVN in SM69. Note that you have to use slashes instead of backslash also on a Windows system. For every source control system that should be supported we create a class inheriting from ZAKE.
